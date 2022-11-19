@@ -1,6 +1,6 @@
 .button_group {
     position: absolute;
-    right: 20px;
+    right: 10px;
     top: 20px;
     margin: auto;
 }
@@ -35,16 +35,16 @@
     color: wheat;
 }
 .main_page {
-    margin-top: 80px;
+    margin-top: 75px;
     margin-left: 20px;
-    margin-right: 20px;
+    margin-right: 10px;
     margin-bottom: 20px;
 }
 .main-hedder {
     font-style: bold;
 }
 .main_image {
-    width: 600px;
+    width: 400px;
 }
 .main_name {
     color: rgb(144, 142, 146);

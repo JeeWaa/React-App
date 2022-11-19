@@ -56,9 +56,9 @@ export default function HomePage() {
                 </Stack>
             </Box>
             <CardMedia 
-                    component="img"
-                    className='main_image'
-                    image='https://img.freepik.com/free-photo/joyful-family-camping-park_1098-1846.jpg?w=740&t=st=1668791876~exp=1668792476~hmac=4c5fc32e7e47941d979071e7741396840895a3f2f709e60a9c9ced0e50627faa'
+                component="img"
+                className='main_image'
+                image='https://img.freepik.com/free-photo/joyful-family-camping-park_1098-1846.jpg?w=740&t=st=1668791876~exp=1668792476~hmac=4c5fc32e7e47941d979071e7741396840895a3f2f709e60a9c9ced0e50627faa'
             />
         </Stack>
         <Stack >

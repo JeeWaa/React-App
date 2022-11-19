@@ -1,0 +1,135 @@
+.main {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.main_body {
+        
+}
+.family_image {
+    height: 310px;
+}
+.data_text {
+    color: darkcyan;
+}
+.price_box {
+    width: 280px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(144, 247, 152);
+    margin-top: 10px;
+    display: flex;
+}
+.box_text {
+    padding-left: 40px;
+    padding-top: 6px;
+    padding-bottom: 0;
+}
+.box_price {
+    padding-left: 40px;
+    padding-top: 0;
+    color: rgb(47, 165, 11);
+}
+.ptc {
+    width: 50px;
+    height: 50px;
+    border: 4px solid rgb(181, 181, 185);
+    border-top: 6px solid rgb(19, 129, 9);
+    border-radius: 100%;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+.pv {
+    color: darkred;
+    padding: 7px;
+}
+.cmt_sec {
+    width: 280px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.text_cmt {
+    color: cadetblue;
+}
+.plane_box {
+    width: 96%;
+    height: 330px;
+    border: 5px solid rgb(128, 85, 6);
+    border-radius: 20px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+}
+.plane_box_left {
+    width: 440px;
+    height: 100%;
+    background-color: rgb(128, 85, 6);
+}
+.plane_box_cente {
+    width: 400px;
+    height: 100%;
+    margin-left: 80px;
+}
+.plane_box_right {
+    width: 350px;
+    height: 100%;
+}
+.plane_box_pay {
+    width: 100px;
+    height: 28px;
+    border-radius: 20px;
+    background-color: chocolate;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.plane_box_hedder {
+    margin-top: 20px;
+}
+.plane_box_pay_text {
+    color: wheat;
+    padding-left: 8px;
+}
+.plane_box_edit {
+    width: 140px;
+    height: 28px;
+    border-radius: 5px;
+    background-color: chocolate;
+    position: relative;
+    right: -80px;
+    top: 20px;
+    margin: auto;
+}
+.plane_box_edit_text {
+    color: wheat;
+    padding-left: 28px;
+}
+.plane_box_im {
+    position: relative;
+    right: -150px;
+    top: 40px;
+    margin: auto;
+}
+.plane_box_imp {
+    position: relative;
+    right: -110px;
+    top: 45px;
+    margin: auto;
+}
+.plane_box_ta {
+    position: relative;
+    right: -180px;
+    top: 60px;
+    margin: auto;
+}
+.plane_box_tap {
+    position: relative;
+    right: -140px;
+    top: 65px;
+    margin: auto;
+}
+.plane_box_left_image {
+    
+}
