@@ -4,23 +4,23 @@ import Box from '@mui/material/Box';
 import React from 'react'
 import './styles.css';
 
-export default function FamilyPage() {
+export default function IncomePage() {
   return (
-      <>
-      <Stack className='main'>
+    <>
+      <Stack className='income_main'>
         <Typography variant="h4" gutterBottom className='main_name'>
-          2020
+          2022
         </Typography>
         <Typography variant="h2" gutterBottom>
-          Helth & Wellbeing of Our Family
+          Protect My Income
         </Typography>
         <Stack direction="row" spacing={26} className='main_body'>
           <Stack>
           <Typography variant="subtitle1" gutterBottom>
-            A successful life is one that's lived to the fullest, and if there are obstacles in
-            the form of illnesses, be prepared to afford the best care you deserve. Find out
-            how much you'll need to look after your and support Dilu, Ruwan and
-            Ruwanthi even in critical condition.
+            Find out how much you'll to support Dilu, Ruwan and Ruwani if uou are
+            not around. To work out the financess your family wount neet to found them if
+            you weren't around use our handy dependent projection and liability
+            calculator.
           </Typography>
           <Stack direction="row" spacing={24}>
             <Box>
@@ -82,7 +82,7 @@ export default function FamilyPage() {
         </Stack>
       </Stack>
 
-      <Grid className='plane_box'>
+      <Grid className='plane_income_box'>
         <Grid className='plane_box_left'>
           <CardMedia 
             component="img"
@@ -92,7 +92,7 @@ export default function FamilyPage() {
         </Grid>
         <Grid className='plane_box_cente'>
           <Typography variant="h5" gutterBottom className='plane_box_hedder'>
-            Smart Life Health Plan
+            Smart Life - Protect my income plan
           </Typography>
           <Typography variant="body2" gutterBottom>
             Secure your child's higher education needs with regular
@@ -105,16 +105,16 @@ export default function FamilyPage() {
             </Typography>
           </Grid>
           <Typography variant="subtitle1" gutterBottom className=''>
-            Selected protection Add-ons
+            Recommended mandatory riders
           </Typography>
           <Typography variant="subtitle2" gutterBottom className=''>
-            Health 360
+            Long term benifit
           </Typography>
           <Typography variant="subtitle2" gutterBottom className=''>
             Waiver of premium
           </Typography>
           <Typography variant="subtitle2" gutterBottom className=''>
-            Suwamaga Benifit
+            Accidental death benifit
           </Typography>
         </Grid>
         <Grid className='plane_box_right'>
@@ -134,7 +134,7 @@ export default function FamilyPage() {
             Total approx. Premium
           </Typography>
           <Typography variant="h4" gutterBottom className='plane_box_tap'>
-            Rs. 122,000
+            Rs. 90,000
           </Typography>
           <Grid className='plane_box_covered_box'>
             <Typography variant="body2" gutterBottom className='plane_box_covered'>
@@ -142,7 +142,7 @@ export default function FamilyPage() {
             </Typography>
             <Grid className='plane_box_covered_p'>
               <Typography variant="body2" gutterBottom className='plane_box_covered_pv'>
-                65%
+                25%
               </Typography>
             </Grid>
           </Grid>
