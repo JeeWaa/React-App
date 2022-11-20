@@ -1,5 +1,5 @@
-.main {
-    margin-top: 10px;
+.income_main {
+    margin-top: 400px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 30px;
@@ -52,13 +52,13 @@
 .text_cmt {
     color: cadetblue;
 }
-.plane_box {
+.plane_education_box {
     width: 1300px;
     height: 330px;
     border: 5px solid rgb(128, 85, 6);
     border-radius: 20px;
     position: absolute;
-    top: 1150px;
+    top: 2960px;
     left: 0;
     right: 0;
     margin: auto;
